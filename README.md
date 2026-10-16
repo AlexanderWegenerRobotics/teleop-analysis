@@ -2,7 +2,7 @@
 
 Time-synced viewer for teleop logs: plot signals, video, gaze and intent on one timeline, then export.
 
-<img src="docs/screenshot-dark.png" alt="teleop-analysis" width="1000">
+<img src="docs/screenshot-dark.png" alt="teleop-analysis" width="1200">
 
 ## Features
 
